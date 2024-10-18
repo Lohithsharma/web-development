@@ -24,6 +24,15 @@ Today I've made a capstone project.
 
 ![Screenshot 2024-10-18 215444](https://github.com/user-attachments/assets/74aa8d12-968d-4f80-8161-b1a66e0be07b)
 
+project 5:
+
+Today I've made a motivation poster project.
+
+![Screenshot 2024-10-18 220305](https://github.com/user-attachments/assets/f51acf28-3e91-4313-8b5f-9b67f2dd0891)
+
+
+
+
 
 
 
