@@ -30,6 +30,12 @@ Today I've made a motivation poster project.
 
 ![Screenshot 2024-10-18 220305](https://github.com/user-attachments/assets/f51acf28-3e91-4313-8b5f-9b67f2dd0891)
 
+project 6:
+
+Today I've made a Flag of Laos using css properties.
+
+![Screenshot 2024-10-20 071939](https://github.com/user-attachments/assets/579291aa-3928-488d-bb81-f4ad23cd1167)
+
 
 
 
