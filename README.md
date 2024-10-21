@@ -36,6 +36,11 @@ Today I've made a Flag of Laos using css properties.
 
 ![Screenshot 2024-10-20 071939](https://github.com/user-attachments/assets/579291aa-3928-488d-bb81-f4ad23cd1167)
 
+project 7:
+
+Today I've learned Media Query and how to implement it for different screen resolutions to make a Responsive web pages.
+
+![Screenshot 2024-10-21 193116](https://github.com/user-attachments/assets/60f1ac19-5d7a-4674-8c29-35ed5321443a)
 
 
 
