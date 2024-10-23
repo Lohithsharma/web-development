@@ -42,6 +42,12 @@ Today I've learned Media Query and how to implement it for different screen reso
 
 ![Screenshot 2024-10-21 193116](https://github.com/user-attachments/assets/60f1ac19-5d7a-4674-8c29-35ed5321443a)
 
+project 8:
+
+Today I've completed the Complete flex box topic.Flexbox is generally used for making the website more intresting and by using flexbox we can add elements in a single row or column and further we can make changes as our wish for making our website unique.
+
+![Screenshot 2024-10-23 164637](https://github.com/user-attachments/assets/b819e8e9-6d04-4b5b-b1f4-2a39126d2eaf)
+
 
 
 
