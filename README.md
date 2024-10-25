@@ -48,6 +48,13 @@ Today I've completed the Complete flex box topic.Flexbox is generally used for m
 
 ![Screenshot 2024-10-23 164637](https://github.com/user-attachments/assets/b819e8e9-6d04-4b5b-b1f4-2a39126d2eaf)
 
+project 9:
+
+I've completed the complete grid topic.grid is used to make our website more intresting with some blocks.we can add flexbox and grid combinely to make a beautiful website.
+
+![Screenshot 2024-10-25 190207](https://github.com/user-attachments/assets/5cb95080-472b-4951-b543-71011350baa1)
+
+
 
 
 
