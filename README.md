@@ -66,6 +66,11 @@ I've buid a responsive web page in this project.
 
 ![Screenshot 2024-10-30 143927](https://github.com/user-attachments/assets/25b0172c-9291-4e62-82d4-0d552a080623)
 
+project 12:
+
+In this project I've developed a webpage for the dicee game.In this game there are two dices and which dice has large number , that dice wins. This webpage is developed by using HTML and CSS and is modified and added features by using javascript.
+
+![Screenshot 2025-01-01 101517](https://github.com/user-attachments/assets/29ade36d-7df3-4143-947e-1121fc83e648)
 
 
 
