@@ -72,6 +72,13 @@ In this project I've developed a webpage for the dicee game.In this game there a
 
 ![Screenshot 2025-01-01 101517](https://github.com/user-attachments/assets/29ade36d-7df3-4143-947e-1121fc83e648)
 
+project 13:
+
+In this project I've made a webpage consisting of drums and those drums make different sounds when they are clicked and when the alphabets on the buttons are pressed in the keyboard.This project is completely based on how we use javascript in our website efficiently to make our website more convenient and attractive.
+
+![Screenshot 2025-01-03 160730](https://github.com/user-attachments/assets/6837309d-0382-4339-a202-6e40d1d714b4)
+
+
 
 
 
