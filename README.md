@@ -78,6 +78,11 @@ In this project I've made a webpage consisting of drums and those drums make dif
 
 ![Screenshot 2025-01-03 160730](https://github.com/user-attachments/assets/6837309d-0382-4339-a202-6e40d1d714b4)
 
+project 14:
+
+In this section I've created a " Simon game " webpage. This website is completely created by using HTML , CSS , JS. I've used JQuery instead of JavaScript in this entire project. This game functionalities are completely created by using JQuery. 
+
+![Screenshot 2025-01-05 143917](https://github.com/user-attachments/assets/8984d29b-6c90-41d7-bb01-f339e07243fe)
 
 
 
