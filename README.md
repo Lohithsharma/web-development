@@ -84,6 +84,11 @@ In this section I've created a " Simon game " webpage. This website is completel
 
 ![Screenshot 2025-01-05 143917](https://github.com/user-attachments/assets/8984d29b-6c90-41d7-bb01-f339e07243fe)
 
+project 15:
+
+In this section, I've leart about node.js and how node.js helps us to add some functionalities to our website.I've used node.js to create a QR-code for a given url.For this project I've used two npm's named as inquirer and qr-image.by using them I've created this page.
+
+![image](https://github.com/user-attachments/assets/ada389e1-eeb2-4934-906e-b35fa5bc6108)
 
 
 
