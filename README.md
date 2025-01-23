@@ -96,6 +96,11 @@ In this section, I've learnt about backend with node.js with express.js and how 
 
 ![Screenshot 2025-01-21 190515](https://github.com/user-attachments/assets/951aba6f-903c-4c57-be1e-d804f2136c97)
 
+project 17:
+
+In this section, I've learnt about Embedded Java Script (EJS). It helps to write code in the middle of the Java Script and it allows us some variables from another file .By using this , we can make our webpage more efficient by giving instructions to the webpage in the form of code. It also helps us to include another file like header file and footer file to our main JS file and it helps us in many ways etc..
+
+![Screenshot 2025-01-23 172222](https://github.com/user-attachments/assets/d30bea8c-52b7-444c-986c-78c8a0aea62e)
 
 
 
