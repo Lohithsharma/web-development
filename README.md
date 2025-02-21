@@ -102,6 +102,12 @@ In this section, I've learnt about Embedded Java Script (EJS). It helps to write
 
 ![Screenshot 2025-01-23 172222](https://github.com/user-attachments/assets/d30bea8c-52b7-444c-986c-78c8a0aea62e)
 
+project 18:
+
+ In this section , I've made the layout of the famous blog website paulgraham's essays .Unsurprisingly, many of Graham’s essays are startup-related. Given his experience on the topic, there’s a lot to unwrap, including some classics like “Ramen Profitable”, “Do Things that Don’t Scale” and “Maker’s Schedule, Manager’s Schedule.
+ 
+![Screenshot 2025-02-21 162339](https://github.com/user-attachments/assets/7edf6453-8620-4d81-b4e3-76d80dfeae37)
+
 
 
 
