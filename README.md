@@ -114,9 +114,17 @@ project 19:
 
 ![Screenshot 2025-05-30 143653](https://github.com/user-attachments/assets/756e46af-8283-4783-a229-12bf9c463f47)
 
+project 20:
 
+In this section, I've made a project based on server-side requests with axios . In this project, I've used get and post requests to give random suggestion on what to do in our free time.These suggestions are filtered based on category and number of participants. We can ask for suggestions based on these filters.
 
+![Screenshot 2025-05-31 115722](https://github.com/user-attachments/assets/c9af416d-7ad0-4b25-a8ad-18b215d5a7e7)
 
+project 21:
+
+In this section, I've made a project based on API authentication. These authentication is divided into four types and In this project ,based on these four types the content is displayed according to which button will you choose.
+
+![Screenshot 2025-05-31 213158](https://github.com/user-attachments/assets/121c8242-953e-40a0-a94b-645fa3195744)
 
 
 
