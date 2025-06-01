@@ -126,9 +126,17 @@ In this section, I've made a project based on API authentication. These authenti
 
 ![Screenshot 2025-05-31 213158](https://github.com/user-attachments/assets/121c8242-953e-40a0-a94b-645fa3195744)
 
+project 22:
 
+In this section, I've made a project based on REST API and I've used get,post,put,patch,delete requests to get the content,post the content,modify the content and delete the content.
 
+![Screenshot 2025-06-01 105728](https://github.com/user-attachments/assets/7928ede9-2dc3-4478-abe4-39648359e9dd)
 
+project 23:
+
+In this section,I've made a secrets access project where if you just scroll to the image then it will show you a random secret.I've used axios and express to do this .
+
+![Screenshot 2025-06-01 131221](https://github.com/user-attachments/assets/e125a20b-3f9b-4f5e-a1d8-9baeeabcc5d7)
 
 
 
