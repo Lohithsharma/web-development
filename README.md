@@ -138,8 +138,22 @@ In this section,I've made a secrets access project where if you just scroll to t
 
 ![Screenshot 2025-06-01 131221](https://github.com/user-attachments/assets/e125a20b-3f9b-4f5e-a1d8-9baeeabcc5d7)
 
+project 24(capstone):
 
+In this section,I've made a Random joke website which will give random joke when you click the button.I've used JOKE API to integrate with my website and when a user will perform action like clicks a button then it will send a random joke.
 
+This is how you can use it in your local system:
+
+* unzip all the contents of the folder and extract then to a new folder.
+* open it in your vs code.
+* open terminal and locate the folder indside the terminal. (in bash , cd "url of that folder")
+* initialize npm and install dependencies by using commands.( npm init -y and npm i).
+* now run the command nodemon index.js.
+* go to browser and search for localhost:3000.
+
+follow these six steps to run the project and to use it.
+
+![Screenshot 2025-06-02 123442](https://github.com/user-attachments/assets/5fe410f5-8c5c-4fdf-93d1-cce3d82ed9ac)
 
 
 
