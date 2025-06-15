@@ -161,6 +161,19 @@ Today I took a major step toward becoming a full-stack web developer by building
 
 ![Screenshot 2025-06-08 191937](https://github.com/user-attachments/assets/98d544c5-69e0-4f0a-ad77-4240bbca1798)
 
+project 26:
+
+🛠️ About Travel Tracker:
+
+Travel Tracker is a dynamic web app that allows users to:
+
+✅ Enter the name of a country they've visited.
+
+🌎 Watch the country get highlighted/colored on the map.
+
+🧠 Receive live error messages if the country is invalid or already added.
+
+![Screenshot 2025-06-15 205746](https://github.com/user-attachments/assets/ba83375f-9174-4407-9280-69aff9f2877e)
 
 
 
