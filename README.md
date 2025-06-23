@@ -175,6 +175,27 @@ Travel Tracker is a dynamic web app that allows users to:
 
 ![Screenshot 2025-06-15 205746](https://github.com/user-attachments/assets/ba83375f-9174-4407-9280-69aff9f2877e)
 
+project 27:
+
+🚀 Project Update: Permalist To-Do List website 📝
+
+Permalist Project — a dynamic To-Do List web app! 💡
+
+🔧 What I implemented:
+
+ ✅ Add new tasks
+
+ ✅ Update existing tasks
+
+ ✅ Click-to-complete feature (auto-remove on completion)
+
+ ✅ Modify tasks post-insertion
+
+🌐 Every user action syncs with the database, ensuring smooth and efficient list management. It’s all about making productivity simpler, faster, and more intuitive.
+
+![Screenshot 2025-06-23 202828](https://github.com/user-attachments/assets/08601f0b-9245-480e-a854-369fbc569043)
+
+
 
 
 
