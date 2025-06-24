@@ -195,7 +195,93 @@ Permalist Project — a dynamic To-Do List web app! 💡
 
 ![Screenshot 2025-06-23 202828](https://github.com/user-attachments/assets/08601f0b-9245-480e-a854-369fbc569043)
 
+project 28:
 
+📚 Book Notes Manager
+A full-stack web application for managing book notes, inspired by Derek Sivers' idea of tracking books, notes, ratings, and reading history. This app allows users to store detailed notes, rate books, and sort them for easy reference.
+
+🚀 Features
+📖 Add, view, edit, and delete book entries
+
+✍️ Take notes on each book you read
+
+⭐ Rate books and sort by rating, recency, or title
+
+🕒 Track the date you completed each book
+
+🔍 Search and filter books easily
+
+🧑‍💻 Built with Node.js, Express, EJS, and PostgreSQL
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, EJS
+
+Backend: Node.js, Express
+
+Database: PostgreSQL
+
+Version Control: Git & GitHub
+
+🧩 Project Structure
+csharp
+Copy
+Edit
+📁 book-notes-manager
+├── 📁 public          # Static assets (CSS, images)
+├── 📁 views           # EJS templates
+├── 📁 routes          # Express route files
+├── 📁 models          # DB schema and queries
+├── 📄 app.js          # Main server file
+├── 📄 package.json
+└── 📄 README.md
+
+📝 How to Use
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/book-notes-manager.git
+cd book-notes-manager
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Set Up the Database
+Ensure PostgreSQL is installed. Then:
+
+sql
+
+CREATE DATABASE booksdb;
+
+Run the schema file or insert your books table using:
+
+sql
+
+CREATE TABLE books (
+  id SERIAL PRIMARY KEY,
+  title VARCHAR(255),
+  author VARCHAR(255),
+  rating INTEGER,
+  notes TEXT,
+  completed_on DATE
+);
+
+4. Start the Server
+   
+bash
+node app.js
+Visit http://localhost:3000 in your browser.
+
+![Screenshot 2025-06-24 223804](https://github.com/user-attachments/assets/56988916-7bcb-4fbc-b1e3-9e539b63f8a3)
+
+
+💡 Inspiration
+Inspired by Derek Sivers’ Book Notes. This app aims to give readers a personal digital library to retain and review insights from non-fiction books.
+
+🧑‍💻 Author
+Lohith Sharma
+GitHub | LinkedIn
 
 
 
